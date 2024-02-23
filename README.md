@@ -2,12 +2,12 @@
 
 Welcome to my LeetCode Grind repository! 🚀 Here, you'll find my solutions to various LeetCode problems as I hone my coding skills and prepare for interviews.
 
-## Table of Contents
+## Table of Contents 📚
 
 - [Navigation](#how-to-navigate)
 - [Contributing](#contributing)
 
-## How to Navigate
+## How to Navigate 🧭
 
 - Each problem folder contains the solution file:
 
